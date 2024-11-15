@@ -8,7 +8,7 @@ A line-following robot is an autonomous machine that can follow a predefined pat
 - 2 Dc motors
 - chassis
 - Batteries
-# connection 
+# Connection 
 ## IR sensor 
 - Ir gnd = Arudino gnd
 - Ir vcc = arudino 5v
