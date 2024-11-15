@@ -98,7 +98,7 @@ A line-following robot is an autonomous machine that can follow a predefined pat
   digitalWrite(rightMotor1, LOW);
   digitalWrite(rightMotor2, LOW);
   }
-![](OurIOT.jpg)
+![](IMG_20241115_162842231_HDR.jpg)
 <!---
 Akash7037/Akash7037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
