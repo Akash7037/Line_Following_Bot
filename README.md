@@ -6,7 +6,7 @@ A line-following robot is an autonomous machine that can follow a predefined pat
 - 2 Ir sensor (obstacles avoid sensor)
 - Driver module (L298N)
 - 2 Dc motors
-- chassis
+- Chasis
 - Batteries
 # Connection 
 ## IR sensor 
